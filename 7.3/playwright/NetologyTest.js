@@ -13,4 +13,4 @@ const { chromium } = require("playwright");
 
   //assertion
   await browser.close();
-})();
+});
